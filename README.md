@@ -12,8 +12,8 @@ The code for the guided project will be written in a single file for simplicity.
 
 ## Project Setup
 
-- [ ] fork and clone this repository.
-- [ ] **CD into the folder** where you cloned **your fork**.
-- [ ] type `yarn` or `npm i` to download dependencies.
+- [x] fork and clone this repository.
+- [x] **CD into the folder** where you cloned **your fork**.
+- [x] type `yarn` or `npm i` to download dependencies.
 
 Please follow along as the instructor builds the API step by step.
